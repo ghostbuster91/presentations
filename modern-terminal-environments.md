@@ -2,9 +2,9 @@
 
 abstract ENG:
 
-Despite the rapid development of very powerful IDEs like Intellij Idea, that are supposed to help in every aspect of software development, good old termial is still an intrinsic element of our daily work. Configuration of the terminal is much more than just bunch of aliases and nice looking colors. 
-During this presenetation, I will show you how you can configure your terminal environment, so that your job will be more plesant and efficient. We will start from a very basic shell configuration and gradually add more, following what I have done over the years. While doing that, we will always try to have our configuration versionable and easily reproducible. 
-There will be a litlle bit of everything: shells, terminals, shell plugins, shell plugin managers, aliases, tmux, vim and nix.
+Despite the rapid development of very powerful IDEs like Intellij Idea, that are supposed to help in every aspect of software development, good old terminal is still an intrinsic element of our daily work. Configuration of the terminal is much more than just bunch of aliases and nice looking colors. 
+During this presentation, I will show you how you can configure your terminal environment, so that your job will be more pleasant and efficient. We will start from a very basic shell configuration and gradually add more, following what I have done over the years. While doing that, we will always try to have our configuration version-able and easily reproducible. 
+There will be a little bit of everything: shells, terminals, shell plugins, shell plugin managers, aliases, tmux, vim and nix.
 
 abstract PL:
 
