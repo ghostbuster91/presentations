@@ -8,4 +8,7 @@ Robiąc to naszym celem bedzie aby konfiguracja jednocześnie była wersjonowana
 Będzie po trochu o wszystkim, powłokach, terminalach, pluginach, managerach pluginów, aliasach, tmuxie, vimie oraz nixie.
   
 abstract ENG:
-todo
+Despite the rapid development of very powerful IDEs like Intellij Idea, that are supposed to help in every aspect of software development, good old termial is still an intrinsic element of our daily work. Configuration of the terminal is much more than just bunch of aliases and nice looking colors. 
+During this presenetation I will show you how you can configure your terminal environment so that your job would be more plesant and efficient. 
+We will start from a very basic shell configuration and gradually add more following what I have done over the years. While doing that we will be always trying to have our configuration versionable and easily reproducible. 
+Ther will be a litlle bit of everything: shells, terminals, shell plugins, shell plugin managers, aliases, tmux, vim and nix.
