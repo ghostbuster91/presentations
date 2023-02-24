@@ -10,4 +10,6 @@ interpret them to your liking - be it http server or openrpc documentation.
 
 I gave that talk on the following conferences:
 
-- Functinoal scala 2022 London https://www.youtube.com/watch?v=mR8sRNQhBFw&t=273s&ab_channel=Ziverge
+- Functinoal scala 2022 London
+  - recoding: https://www.youtube.com/watch?v=mR8sRNQhBFw&t=273s&ab_channel=Ziverge
+  - slides: https://slides.com/kasperkondzielski-1/deck-be6dc7

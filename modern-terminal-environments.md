@@ -17,4 +17,5 @@ Będzie po trochu o wszystkim, powłokach, terminalach, pluginach, managerach pl
 
 I gave that talk on the following conferences:
 
-- Art of Scala 2022, Warsaw (no recording)
+- Art of Scala 2022, Warsaw
+  - slides: https://github.com/ghostbuster91/modern-terminals-slides
